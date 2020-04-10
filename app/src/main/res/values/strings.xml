@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Training</string>
+    <string name="title_activity_collection">Collection Sample</string>
+    <string name="title_activity_ordered_list">Ordered List Sample</string>
+</resources>
